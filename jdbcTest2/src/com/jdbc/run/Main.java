@@ -6,7 +6,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		new MemberControllerImpl().mainMenu();
-		System.out.println("내가 추가한것");
+		int age = 10;
+		System.out.println(age);
 	}
 }
 
