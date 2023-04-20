@@ -20,6 +20,7 @@ public class MainView {
 			System.out.println("3. 이름으로 회원조회");
 			System.out.println("4. 회원등록");
 			System.out.println("5. 회원수정(이름, 나이, 이메일, 주소)");
+			System.out.println("6. 주영씨 주석좀 하세요! 공부해야지요!");
 			System.out.println("0. 프로그램 종료");
 			System.out.print("메뉴선택 : ");
 			int cho = sc.nextInt();
