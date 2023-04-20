@@ -6,3 +6,5 @@ public interface Test {
 
 	int calc(int a, int b);
 }
+
+

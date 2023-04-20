@@ -8,6 +8,7 @@ public class Main {
 		new MemberControllerImpl().mainMenu();
 		int age = 10;
 		System.out.println(age);
+		System.out.println("난 반장이다 말 잘들어라!!!");
 	}
 }
 
